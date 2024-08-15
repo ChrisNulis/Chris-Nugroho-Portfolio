@@ -34,4 +34,18 @@ export const cards = [
     liveButton: false,
     gitButton: false,
     },
+    {
+    id: 6,
+    picture: "Card 6",
+    title: "Card 6",
+    liveButton: true,
+    gitButton: false,
+    },
+    {
+    id: 7,
+    picture: "Card 7",
+    title: "Card 7",
+    liveButton: false,
+    gitButton: true,
+    },
 ];
